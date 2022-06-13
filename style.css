@@ -64,15 +64,19 @@ hr {
 }
 
 .bottom {
-    background-color: blueviolet;
     display: flex;
+    flex-flow: row;
+    margin-left: -7vh;
     width: 100%;
     border-radius: 0 0 20px 20px;
     justify-content: center;
     align-content: center;
 }
 
-
+.bottom pre {
+    font-weight: 700;
+    font-size: 18px;
+}
 
 
 footer {
