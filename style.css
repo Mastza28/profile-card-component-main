@@ -14,12 +14,13 @@ html {
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 50vw bottom 40vh, left 55vw top 50vh;
+    overflow-y: scroll;
 }
 
 
 .card {
     margin: auto;
-    margin-top: 30vh;
+    margin-top: 15%;
     display: flex;
     flex-direction: column;
     width: 450px;
