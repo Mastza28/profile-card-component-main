@@ -22,7 +22,7 @@ Solution
 
 ### Links
 
-- Live Site URL: [Mastza28 Profile Card](https://)
+- Live Site URL: [Mastza28 Profile Card Solution](https://mastza28.github.io/profile-card-component-main/)
 
 
 ### Author
